@@ -5,7 +5,7 @@ The overall methodology of AC-TCGN is illustrated in Figure 1.
 <p align="center">
   <img src="../figure/figure3.png" width="80%" />
   <br/>
-  <em>Figure 1: Overview of the Ancient Chinese document Target-Conditioned Gradient-Based Neuron Identification Framework.</em>
+  <em>Figure 1: Overview of the AC-TCGN framework for identifying and validating task-relevant FFN neurons in VLMs.</em>
 </p>
 
 
