@@ -28,7 +28,7 @@ Distinct from existing general benchmarks, AncientVision-3T employs a **hierarch
 <div align="center">
   <img src="figure/fig1.png" width="90%" alt="AncientVision-3T Framework">
   <br>
-  <em>Figure 1: Overview of the AncientVision-3T Benchmark and the Proposed Analysis Framework.</em>
+  <em>Figure 1: Task-wise separation and entanglement of decoder FFN neurons across general and ancient Chinese domain-specific VLMs.</em>
 </div>
 
 ## 📂 Dataset Statistics
