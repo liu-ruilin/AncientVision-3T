@@ -3,7 +3,7 @@
 This repository contains the implementation of **AC-TCGN**, a method for identifying and analyzing ancient Chinese document image-text task neurons neurons in Vision-Language Models (e.g., Qwen3-VL, Xunzi-Qwen2-VL).
 The overall methodology of AC-TCGN is illustrated in Figure 1.
 <p align="center">
-  <img src="../figure/figure3.png" width="80%" />
+  <img src="../figure/1-1.png" width="80%" />
   <br/>
   <em>Figure 1: Overview of the AC-TCGN framework for identifying and validating task-relevant FFN neurons in VLMs.</em>
 </p>
