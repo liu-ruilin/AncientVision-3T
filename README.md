@@ -128,3 +128,26 @@ The textual data (ground truth labels, OCR text, and classification categories) 
     ```
 2.  Align images with annotations:
     Ensure the image filenames in the Hugging Face dataset match the IDs provided in the JSON/Text files located in the `data/` folder of this repository.
+    
+## 📚 Citation
+
+If you find the **AncientVision-3T** dataset or **AC-TCGN** method useful in your research, please consider citing our paper:
+
+**Ruilin Liu, Dongmei Zhu, Yuting Wei, and Jin Song.** (2026). *From Separation to Entanglement: Dissecting Feed-Forward Network Functional Organization in Vision–Language Models for Ancient Chinese Documents*. Findings of EMNLP 2026.
+
+**Paper:** [ACL Anthology](https://aclanthology.org/2026.findings-emnlp.1095/)
+
+```bibtex
+@inproceedings{liu-etal-2026-separation,
+    title = "From Separation to Entanglement: Dissecting Feed-Forward Network Functional Organization in Vision{--}Language Models for {A}ncient {C}hinese Documents",
+    author = "Liu, Ruilin and Zhu, Dongmei and Wei, Yuting and Song, Jin",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {EMNLP} 2026",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    pages = "23176--23189",
+    url = "https://aclanthology.org/2026.findings-emnlp.1095/"
+}
+```
+
