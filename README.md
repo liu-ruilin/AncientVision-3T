@@ -123,8 +123,8 @@ The textual data (ground truth labels, OCR text, and classification categories) 
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
-    cd YourRepoName
+    git clone [git clone https://github.com/liu-ruilin/AncientVision-3T.git](git clone https://github.com/liu-ruilin/AncientVision-3T.git)
+    cd AncientVision-3T
     ```
 2.  Align images with annotations:
     Ensure the image filenames in the Hugging Face dataset match the IDs provided in the JSON/Text files located in the `data/` folder of this repository.
